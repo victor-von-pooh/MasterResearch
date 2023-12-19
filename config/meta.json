@@ -1,0 +1,13 @@
+{
+    "token": "******",
+    "shots": 1000,
+    "iterations": 10,
+    "reps": 1,
+    "problem": {
+        "data_path": "../data/tsp_data.txt",
+        "num_cities": 5
+    },
+    "optimizer": "cobyla",
+    "mode": "device",
+    "quantum_machine": "------"
+}
