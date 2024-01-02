@@ -15,7 +15,7 @@ from utility_functions import (
 
 
 if __name__ == "__main__":
-    with open('../meta/meta.json') as f:
+    with open('../config/meta.json') as f:
         meta_data = json.load(f)
 
     PROBLEM = create_tsp(
