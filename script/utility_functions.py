@@ -163,7 +163,7 @@ def result_shower(result):
 
 
 def get_job_list():
-    jobs_meta = '../meta/job_conf.json'
+    jobs_meta = '../config/job_conf.json'
     with open(jobs_meta) as f:
         jobs = json.load(f)
 
