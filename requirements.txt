@@ -1,0 +1,7 @@
+numpy
+pandas
+qiskit
+qiskit-optimization
+qiskit-algorithms
+qiskit-ibm-runtime
+qiskit-ibm-provider
