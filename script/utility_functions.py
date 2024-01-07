@@ -202,7 +202,15 @@ def txt_to_json(job_dir, job_name, i):
     job_info = job + '-info.json'
     job_result = job + '-result.txt'
 
-    renamed_job_info = job_info.replace(job_name, f'data_{i + 1}')
+    if i < 99:
+        if i < 9:
+            num = '00' + str(i + 1)
+        else:
+            num = '0' + str(i + 1)
+    else:
+        num = str(i + 1)
+
+    renamed_job_info = job_info.replace(job_name, 'data_' + num)
     os.rename(job_info, renamed_job_info)
 
     with open(job_result, 'r') as f:
