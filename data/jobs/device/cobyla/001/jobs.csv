@@ -1,0 +1,12 @@
+JobId,SessionId,Status,Reason,Created,Completed,Program,Name,Service,Instance,Tags,Usage (seconds)
+cpdp410btqp0008fx0sg,,Completed,,2024-01-08T02:46:28.604835Z,2024-01-08T02:46:42.669Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,cobyla_001,3
+cpdp3qeja3gg00810edg,,Completed,,2024-01-08T02:45:49.423146Z,2024-01-08T02:46:24.78Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,cobyla_001,3
+cpdp3ed2zy6g008p288g,,Completed,,2024-01-08T02:45:13.498383Z,2024-01-08T02:45:44.108Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,cobyla_001,3
+cpdp35mprheg008rysyg,,Completed,,2024-01-08T02:44:38.322551Z,2024-01-08T02:45:10.233Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,cobyla_001,2
+cpdp2ntmbjng00861yxg,,Completed,,2024-01-08T02:43:36.048114Z,2024-01-08T02:44:31.473Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,cobyla_001,2
+cpdp228btqp0008fx0d0,,Completed,,2024-01-08T02:42:17.838304Z,2024-01-08T02:43:30.05Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,cobyla_001,3
+cpdp1xq2zy6g008p2830,,Completed,,2024-01-08T02:41:58.52027Z,2024-01-08T02:42:12.625Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,cobyla_001,3
+cpdp1rq2zy6g008p282g,,Completed,,2024-01-08T02:41:38.614322Z,2024-01-08T02:41:53.917Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,cobyla_001,2
+cpdp1kyja3gg00810e80,,Completed,,2024-01-08T02:41:19.494058Z,2024-01-08T02:41:34.887Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,cobyla_001,3
+cpdnzvqprheg008rysc0,,Completed,,2024-01-08T02:37:35.020143Z,2024-01-08T02:41:13.353Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,cobyla_001,3
+cpdgnx7btqp0008fwjw0,,Completed,,2024-01-07T20:35:00.557852Z,2024-01-08T02:37:30.565Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,cobyla_001,2
