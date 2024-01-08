@@ -1,0 +1,37 @@
+{
+  "id": "cmdoaiqmpoeld4mma9pg",
+  "hub": "ibm-q",
+  "group": "open",
+  "project": "main",
+  "backend": "ibmq_qasm_simulator",
+  "state": {
+    "status": "Completed",
+    "reason": "",
+    "reasonCode": null
+  },
+  "status": "Completed",
+  "params": {
+    "shots": 1000,
+    "memory": false,
+    "circuits": [
+      {
+        "__type__": "QuantumCircuit",
+        "__value__": "eJzVnF2oVFUUx+ecmfM152PmzMyZmStEWCCFXIgUS5LutUTRED+6glkSt9sVeojymilJRBEEvlhPPdiHBEGRUBRE0UP6UtAHvVToW0ISPWiWQqn04T73uM8s557ae/3PPHTgsmWY/2+vtc9a/73PueqW9ffes37Kq4wZlfnL2F1xd1XcK38ay37EZWY/4gvbtqzetHp85YoVExcXX55aM94/8PRuI/2ucUVML2NAL65qNtay0cpGOxudbHSz0cvGejb62RhkY5iNUTY2srGZjXE2trKxnY2dbEyysZuNvWzsz8xnVDMenZ3eQ3P6/yYlM7CzqI3Kwte2Zeumn5hNb+auq8H3x9dMXV7sTV7zwcVPr/1gIsUb/4LfumMYv2bzkj8/OHn+mIbYGBY7mdAsFOdTU8Tbp9Ztmt3wxaTG/CY+vzk8vwbCKECop1DFU6jiKWAIswChvgo1fBVq+CpgCBNHVAsQ6gtpSfE3rv3Rke8YC2nhC5kjnjr61tGDRzZrIWoU8cfpH16cWbp2UsMzba5nquEdKZ7dM3771uPnJuQHV7889IHcixZYgPTW3r1dRp/OUU48Wf7Hhj7gxaMmcFKVRtXaeNXaw/WiW7U23v42VPhWQRTqleBK8c7d1k0XXjpbbmWmN9YtJ54yKnMgHjWBm5eyWmU6UGUaFMGpTJMi2LuKg1cmFoVdgFAvJk+KF6Wl8nO5xZ3WhldOPGUU90A8agIv7wa14nah4jYpglPcVYrglFWNItjFjUVh4winAKF+Oz3odlYogrOQVYrgVESNIjgLaeEIG0c4OMItQKhXRF2Kj136yrjzW0ZF1KEUDIp497llJyoXbtGviBzReePj3197b5V+RWCJ2BQxtfzg8vcPLdNCeBTx6su3nel8vl1nA/RH+1gTjPaxxk/nKCeeMvbXgXjUBEGq0mg/H28/Hyp8gyLYjzU+1MEWRcjC120/LBGHIjgdXC+IQr2kw9E+n6UVGpYTTxktNhCPmiDMe1KtxQKoxQyK4LSYSRHs57MAajGbIjgt5uCJuBTBbjEsCr8Aod4V0WgfNNMij8qJp4wuHYhHTRDlba3WpeFwl6qLI6jFKxTBaS6TpsBxiSpFsF0igqKo0SjYp/EISsSiCI5LODQRjt25+B1xaSKcKDwaBdsxsUR8HBHgCA8vrTqO8HFEgCPCAoS6azakmP0b1QaUgkERa7+/7tnOxkl9s8kR6/evuTGp7dQ3GywRmyIeP/fQ4TOdDfqlnSNuqCx5Z9X5TfqljSXiU8Qdi048tu/4fVqIiCLkJqR+lmmO9h1GPNp3GM10jnLiKePoNhCPmiBOVRo+0sR9pAl1sEER7HcYTciKLIrgdLCNJ+JQBMeK6hTBOUb6eCIBRXCsqFEQhXpvtkb7MiZttVY58ZThFQPxqAlaubmoeUUMeYVBERyvMCmC/ZgVQ15hUwTHKxw8EZciOF7hUwTHKwI8kZAi2F6BRdEsQKi3d3u0b5XSbm2XE08ZdjMQj5qgnfuTmt20hu1GXdyGvKpCERyXMGkKHLurUgTb7tpQFDUaBftBrw0lYlEEx+4cmgjHt138jrg0EU4UHo2CsxYBRXCsP8TXIqIItvVjUTRxRIwjPLxH6hTBWc6QIjh1EeGJNHBEE0fEOKJVgFDfxzpSfPr4rw//coqxj3WgFAyKOHvz4Wc+e/1BffvPEU9eP7Z31Yf369s/lohNEfOl/YB+j+YIzi9Y6ngiPkVw7D+iiJOv7P/t5Cc79HsUS6RJET9d+vHNfX9t1EK0KeLQyi9X7nt+m86xPRntC8vuaF9YJukc5cRTxlPBQDxqgm6q0jDEBDfEBLIigyLYLywTyFMtimD/pRIsEYciOJ5apwiOFfl4IgFFcDy1QRHSinQNEUskpgiOp3YKolA3md5o37ymntErJ54yTG8gHjVBL3dJNdPrQqZnUIQ0vf+cXwac/yvuW7sHlr7w9eUJbbvrQmVdpQiOY9oUIR1TfRVsaBUcfBVciuDYrU8R0m7VV8GHViHAVyGkCI5XNymCHBvVVqEJrUKMr0KLIthGj0WRFCDUvbk/2tfmqdX2y4mnjL1iIB41QT/fXNT2inyz4+wVJkUw9gpzuDPUg+9DwVcoQu4S6sFXoLau0sVjb3R9ZP2rUAo1mgL7dU9/YU9QS6EGpWDR+eUuqT6/Bc3v0CVkHDQcaH4Xr0KXLiEjBRdKwaMpcA46AUUwDjoBlEKI34WIIjgHnZgiGAedGFqFFr4KbYpgH3SwKBIc0cURXoG16r5v6Q8XlXpF1PG+6CN9GULzR/DuFEHzN+j8spzV52/gHdlHHKEFzd+G178Nzd+B5+9A8yfw/Ak0fxeevwvN34Pn7w3Pry7uI2Jv4czFNVYgvmt6bu6R2Tn5dGLIh6yqPCtb8vWUIw9fnvRqX55mQulfDfkSI5Y93ZbVneS7zfzT5tUgi7LcODu9Z+/c/APQTPqJhsKYSb+joTCFwtRRVIWiqqOoCUVNR2EJhaWjsIXC1lE4QuHoKFyhcHUUnlB4Ooq6UNR1FL5Q+DqKQCgCHUUoFKGOIhKKSEfREIqGjqIpFE0dRSwUsY6iJRQtHUVbKNo6io5QdHQUiVAkOoquUHR1FD2h6Oko+kIh/t/dvwcu8Z1/AKWus44="
+      }
+    ],
+    "meas_level": 2,
+    "init_qubits": true,
+    "meas_return": "avg",
+    "skip_transpilation": true
+  },
+  "program": {
+    "id": "circuit-runner"
+  },
+  "created": "2024-01-08T05:16:59.387Z",
+  "runtime": "",
+  "cost": 3600,
+  "tags": [
+    "spsa_sim_001"
+  ],
+  "session_id": null
+}
