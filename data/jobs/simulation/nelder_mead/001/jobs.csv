@@ -1,0 +1,23 @@
+JobId,SessionId,Status,Reason,Created,Completed,Program,Name,Service,Instance,Tags,Usage (seconds)
+cmdt11jrga5j1u9j5tg0,,Completed,,2024-01-08T10:37:58.841538Z,2024-01-08T10:38:28.155654Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdt0rknktricigc4fh0,,Completed,,2024-01-08T10:37:34.52251Z,2024-01-08T10:37:56.02491Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdt0nohu2povi5kr4fg,,Completed,,2024-01-08T10:37:19.346722Z,2024-01-08T10:37:32.130382Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdt0i8hu2povi5kr3lg,,Completed,,2024-01-08T10:36:57.232025Z,2024-01-08T10:37:14.477827Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdt0b8hu2povi5kr2hg,,Completed,,2024-01-08T10:36:29.156138Z,2024-01-08T10:36:54.981801Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdt04rrga5j1u9j5p40,,Completed,,2024-01-08T10:36:03.502443Z,2024-01-08T10:36:24.82088Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdsvv74mi97k7j9799g,,Completed,,2024-01-08T10:35:40.852859Z,2024-01-08T10:36:00.353021Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdsvprrga5j1u9j5n10,,Completed,,2024-01-08T10:35:19.509667Z,2024-01-08T10:35:39.154213Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdsviknktricigc48u0,,Completed,,2024-01-08T10:34:50.408294Z,2024-01-08T10:35:15.843379Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdsvdtmtr96u82qdlkg,,Completed,,2024-01-08T10:34:31.87409Z,2024-01-08T10:34:46.970731Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdsv8dmtr96u82qdkrg,,Completed,,2024-01-08T10:34:09.883696Z,2024-01-08T10:34:28.061143Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdsv1qmpoeld4mmvtc0,,Completed,,2024-01-08T10:33:43.825908Z,2024-01-08T10:34:07.323302Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdsusampoeld4mmvsgg,,Completed,,2024-01-08T10:33:21.877113Z,2024-01-08T10:33:41.855939Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdsumohu2povi5kqpt0,,Completed,,2024-01-08T10:32:59.900592Z,2024-01-08T10:33:18.429232Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdsuicnktricigc43i0,,Completed,,2024-01-08T10:32:41.110393Z,2024-01-08T10:32:55.636667Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdsub2mpoeld4mmvpgg,,Completed,,2024-01-08T10:32:12.488015Z,2024-01-08T10:32:37.947688Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdsu3snktricigc4130,,Completed,,2024-01-08T10:31:43.731565Z,2024-01-08T10:32:08.920687Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdsttknktricigc4060,,Completed,,2024-01-08T10:31:18.242284Z,2024-01-08T10:31:41.308971Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdsto5mtr96u82qdc7g,,Completed,,2024-01-08T10:30:56.440555Z,2024-01-08T10:31:15.029003Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdstj4nktricigc3ufg,,Completed,,2024-01-08T10:30:36.732098Z,2024-01-08T10:30:52.875278Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdstcohu2povi5kqhig,,Completed,,2024-01-08T10:30:11.708094Z,2024-01-08T10:30:34.200934Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
+cmdst78hu2povi5kqgf0,,Completed,,2024-01-08T10:29:49.587492Z,2024-01-08T10:30:07.095909Z,circuit-runner,,ibmq_qasm_simulator,ibm-q/open/main,nelder-mead_sim_001,0
