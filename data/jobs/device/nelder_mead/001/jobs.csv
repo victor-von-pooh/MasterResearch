@@ -1,0 +1,27 @@
+JobId,SessionId,Status,Reason,Created,Completed,Program,Name,Service,Instance,Tags,Usage (seconds)
+cpdxd0mbtqp0008fxt90,,Completed,,2024-01-08T11:03:30.821972Z,2024-01-08T11:03:45.168Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,3
+cpdxcvv2zy6g008p3670,,Completed,,2024-01-08T11:03:11.725348Z,2024-01-08T11:03:26.747Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,2
+cpdxcpjbtqp0008fxt80,,Completed,,2024-01-08T11:02:51.064365Z,2024-01-08T11:03:07.238Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,3
+cpdxchtmbjng00862yq0,,Completed,,2024-01-08T11:02:31.212719Z,2024-01-08T11:02:46.029Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,3
+cpdxccsmbjng00862yp0,,Completed,,2024-01-08T11:02:11.56036Z,2024-01-08T11:02:25.878Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,2
+cpdxc81prheg008rzsb0,,Completed,,2024-01-08T11:01:52.211788Z,2024-01-08T11:02:07.908Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,3
+cpdxbz7yx18g008bh0eg,,Completed,,2024-01-08T11:01:17.02172Z,2024-01-08T11:01:45.822Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,2
+cpdxbtfyx18g008bh0dg,,Completed,,2024-01-08T11:00:57.921281Z,2024-01-08T11:01:13.211Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,2
+cpdxbmpmbjng00862ykg,,Completed,,2024-01-08T11:00:34.666584Z,2024-01-08T11:00:51.346Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,3
+cpdxbfxprheg008rzs80,,Completed,,2024-01-08T11:00:15.22054Z,2024-01-08T11:00:30.934Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,2
+cpdxbaxyx18g008bh0ag,,Completed,,2024-01-08T10:59:55.301884Z,2024-01-08T11:00:09.724Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,2
+cpdxb5wprheg008rzs70,,Completed,,2024-01-08T10:59:35.728875Z,2024-01-08T10:59:50.34Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,3
+cpdxb0wmbjng00862yg0,,Completed,,2024-01-08T10:59:15.259384Z,2024-01-08T10:59:30.17Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,2
+cpdxavkmbjng00862yf0,,Completed,,2024-01-08T10:58:54.224675Z,2024-01-08T10:59:09.675Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,2
+cpdxapjyx18g008bh070,,Completed,,2024-01-08T10:58:34.611359Z,2024-01-08T10:58:49.444Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,2
+cpdxahtbtqp0008fxt1g,,Completed,,2024-01-08T10:58:15.698292Z,2024-01-08T10:58:30.365Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,2
+cpdxad1btqp0008fxt10,,Completed,,2024-01-08T10:57:56.195369Z,2024-01-08T10:58:11.448Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,3
+cpdxa70btqp0008fxt00,,Completed,,2024-01-08T10:57:32.944517Z,2024-01-08T10:57:49.583Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,2
+cpdxa28mbjng00862yag,,Completed,,2024-01-08T10:57:13.386294Z,2024-01-08T10:57:27.879Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,3
+cpdx9xfprheg008rzrz0,,Completed,,2024-01-08T10:56:53.62598Z,2024-01-08T10:57:08.013Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,3
+cpdx9rqyx18g008bh03g,,Completed,,2024-01-08T10:56:34.693737Z,2024-01-08T10:56:50.024Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,2
+cpdx9kp2zy6g008p35kg,,Completed,,2024-01-08T10:56:14.467607Z,2024-01-08T10:56:29.372Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,2
+cpdx9exja3gg00811an0,,Completed,,2024-01-08T10:55:55.67502Z,2024-01-08T10:56:10.456Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,2
+cpdx97myx18g008bh000,,Completed,,2024-01-08T10:55:26.972007Z,2024-01-08T10:55:41.723Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,2
+cpdx92w2zy6g008p35h0,,Completed,,2024-01-08T10:55:07.4934Z,2024-01-08T10:55:22.054Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,2
+cpdx8wvbtqp0008fxswg,,Completed,,2024-01-08T10:54:44.021466Z,2024-01-08T10:54:59.878Z,circuit-runner,,ibm_kyoto,ibm-q/open/main,nelder-mead_001,2
