@@ -97,3 +97,6 @@ pip install -r requirements.txt
             - IBM Quantum Platformからダウンロードしたファイルの時刻情報から実行された順に並び替えた配列と, `job_conf.json`ファイルの指すディレクトリのパスを渡す
         - `txt_to_json`
             - ファイルの拡張子を`.txt`から`.json`に変える
+
+## 実行方法
+1. 
