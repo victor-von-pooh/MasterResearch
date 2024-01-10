@@ -99,4 +99,25 @@ pip install -r requirements.txt
             - ファイルの拡張子を`.txt`から`.json`に変える
 
 ## 実行方法
-1. 
+1. MasterResearchディレクトリからscriptディレクトリに移動する.
+2. config/meta.jsonを適切に書き換えて保存する.
+3. 次のコマンドを入力し, 実行完了まで待つ.
+    ```
+    python3 main.py
+    ```
+4. IBM Quantum Platformのマイページから実行した全てのデータとそれらの情報のまとまったCSVファイルを取得する.
+
+    a. 画像赤枠の`View all`をクリック.
+        ![1](4_a.png)
+    
+    b. 画像右赤枠のアイコンからCSVをダウンロード, 画像左赤枠のチェックボックスをつけて全てのデータにおいてcをする.
+        ![2](4_b.png)
+    
+    c. 画像赤枠の`Download`でデータをダウンロード.
+        ![3](4_c.png)
+5. 4で取得した全てのデータをdata/jobs内の適切な場所に保存し, フォルダ名を実験番号にする.
+6. config/job_conf.jsonを適切に書き換えて保存する.
+7. 次のコマンドを入力し, 実行完了まで待つ.
+    ```
+    python3 job_conv.py
+    ```
