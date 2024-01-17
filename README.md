@@ -8,8 +8,8 @@
 `pip`を使用する場合, リポジトリのターミナル上で以下のコマンドを実行する.
 
 ```
-pip install --upgrade pip
-pip install -r requirements.txt
+pip3 install --upgrade pip
+pip3 install -r requirements.txt
 ```
 ### IBM Quantum Platformのアカウントの作成
 
